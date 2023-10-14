@@ -1,0 +1,12 @@
+:root {
+    --main-color: #980F97;
+    --sec-color: #A52DAA;
+    --tert-color: #E5C3E5;
+    --font-color-1: #F2E1F2;
+    --font-color-2: #5D215D;
+}
+
+body {
+    background-color: var(--tert-color);
+    height: 100vh;
+}
