@@ -10,3 +10,25 @@ body {
     background-color: var(--tert-color);
     height: 100vh;
 }
+
+.bg-purple {
+    background-color: var(--sec-color);
+}
+
+.bg-light-purple {
+    background-color: var(--font-color-1);
+    background: blur;
+}
+
+.bb-purple {
+    border-bottom: 4px solid var(--main-color);
+}
+
+.nav > .nav-item > a {
+    color: var(--font-color-1);
+}
+
+
+.nav > .nav-item > a:hover {
+    color: var(--font-color-2);
+}
