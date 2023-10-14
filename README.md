@@ -15,7 +15,7 @@ This portfolio is an upgrade to the first portfolio piece, which was created wit
 
 This project is currently under construction, I aim to achieve completion when:
 
-- When I see a landing page displaying a profile picture, welcome text and animation
+- When I see a landing page displaying a profile picture, welcome text and random quote generator
 - When I see a 'my work' section which displays multiple portfolio pieces
 - When one of the portfolio pieces is the 'main' piece
 - When I have a functioning "contact" section of the website
