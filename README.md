@@ -11,11 +11,6 @@ This portfolio is an upgrade to the first portfolio piece, which was created wit
 - Javascript
 - Bootstrap CSS
 
-## Roadmap
-
-- Quote on landing page
-- Navbar responsiveness
-
 ## Usage
 
 N/A
