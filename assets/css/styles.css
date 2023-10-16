@@ -42,7 +42,14 @@ body {
     padding-bottom: 20px;
 }
 
-#contact > div > i {
-    width: 200px;
-    height: 200px;
+.font-color-2 {
+    color: var(--font-color-2);
+}
+
+a {
+    cursor: pointer;
+}
+
+blockquote {
+    font-family: 'Times New Roman', serif;
 }
