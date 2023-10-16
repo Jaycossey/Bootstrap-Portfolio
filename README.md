@@ -13,7 +13,8 @@ This portfolio is an upgrade to the first portfolio piece, which was created wit
 
 ## Usage
 
-N/A
+This site is deployed at:
+https://jaycossey.github.io/Bootstrap-Portfolio/
 
 ## Support
 
